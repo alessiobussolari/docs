@@ -2,6 +2,15 @@
 
 * [Benvenuto in PANDEV](README.md)
 
+## 🚀 INIZIALIZZAZIONE AMBIENTE
+
+* [Panoramica](inizializzazione-ambiente/README.md)
+* [Setup macOS](inizializzazione-ambiente/setup-macos.md)
+* [Setup Windows](inizializzazione-ambiente/setup-windows.md)
+* [Setup Linux](inizializzazione-ambiente/setup-linux.md)
+* [Verifica Ambiente](inizializzazione-ambiente/verifica-ambiente.md)
+* [Troubleshooting](inizializzazione-ambiente/troubleshooting.md)
+
 ## 🏗️ PROGETTAZIONE
 
 * [La tabella di prioritizzazione](progettazione/la-tabella-di-prioritizzazione/README.md)
@@ -79,6 +88,14 @@
 ## 🚀 DevOps
 
 * [Generale](devops/generale.md)
+  * [Containerizzazione](devops/generale.md#containerizzazione)
+  * [CI/CD](devops/generale.md#cicd)
+  * [Infrastructure as Code](devops/generale.md#infrastructure-as-code)
+  * [Monitoring e Logging](devops/generale.md#monitoring-e-logging)
+  * [Security](devops/generale.md#security)
+  * [Performance Optimization](devops/generale.md#performance-optimization)
+  * [Deployment Strategies](devops/generale.md#deployment-strategies)
+  * [Best Practices](devops/generale.md#best-practices)
 
 ## 🛠️ How To
 
