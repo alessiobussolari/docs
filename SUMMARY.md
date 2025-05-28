@@ -38,6 +38,8 @@
 * [Ruby](styleguides/ruby/generale.md)
   * [Generale](styleguides/ruby/generale.md)
   * [Installazione](styleguides/ruby/installazione.md)
+  * [Configurazione RuboCop](styleguides/ruby/configurazione-rubocop.md)
+  * [Performance](styleguides/ruby/performance.md)
   * [Regole](styleguides/ruby/regole/README.md)
     * [Generale](styleguides/ruby/regole/generale.md)
     * [Layout](styleguides/ruby/regole/layout.md)
