@@ -55,6 +55,15 @@
   * [Approfondimenti](styleguides/ruby/approfondimenti/README.md)
     * [Regexp non-capturing groups](styleguides/ruby/approfondimenti/regexp-non-capturing-groups.md)
     * [principio di sostituzione di Liskov](styleguides/ruby/approfondimenti/principio-di-sostituzione-di-liskov.md)
+* [JavaScript](styleguides/javascript/generale.md)
+  * [Generale](styleguides/javascript/generale.md)
+  * [Configurazione ESLint](styleguides/javascript/configurazione-eslint.md)
+  * [Configurazione Prettier](styleguides/javascript/configurazione-prettier.md)
+  * [Configurazione VS Code](styleguides/javascript/configurazione-vscode.md)
+* [TypeScript](styleguides/typescript/generale.md)
+  * [Generale](styleguides/typescript/generale.md)
+* [Python](styleguides/python/generale.md)
+  * [Generale](styleguides/python/generale.md)
 
 ## 📐 Angular
 
